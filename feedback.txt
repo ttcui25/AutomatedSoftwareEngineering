@@ -1,0 +1,4 @@
+Teammates: Sachit Tripathi (sachitkt) Ilya Mruz (ilyamruz)
+
+One thind they could improve is error handling. They could add more informative error messages to help with debugging. Some helpful tips would be to add time stamps to the error messages to know when they occured.
+Something else that could be included is input validation. There should be a part of the code that validates that the input given by the user is valid and the bot can use the responses.
