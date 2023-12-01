@@ -1,7 +1,9 @@
 # Automated Software Engineering Workshop
 
 ## Team
-The team is just me: Timothy (Tikki) Cui, PID: ttcui
+The team is just me:
+- Name: Timothy (Tikki) Cui
+- PID: ttcui
 
 ## Pros/Cons
 Pros:
